@@ -230,6 +230,10 @@
         <url>scm:git:git@github.com:stanojevic-boris/test-git.git</url>
     </scm>
 
+	<modules>
+	    <module>basic</module>
+	</modules>
+	
     <dependencyManagement>
         <dependencies>
             <dependency>
