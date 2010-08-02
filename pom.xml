@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>org.openehealth.ipf.git</groupId>
     <artifactId>ipf-git</artifactId>
-    <version>0.2</version>
+    <version>0.2-SNAPSHOT</version>
     <name>ipf-git</name>
     <packaging>pom</packaging>
 
@@ -225,9 +225,9 @@
     </distributionManagement>
 
     <scm>
-        <connection>scm:git:file:///_data/repo/git/test-git.git</connection>
-        <developerConnection>scm:git:file:///_data/repo/git/test-git.git</developerConnection>
-        <url>scm:git:file:///_data/repo/git/test-git.git</url>
+        <connection>scm:git:https://stanojevic-boris@github.com/stanojevic-boris/test-git.git</connection>
+        <developerConnection>scm:git:https://stanojevic-boris@github.com/stanojevic-boris/test-git.git</developerConnection>
+        <url>scm:git:https://stanojevic-boris@github.com/stanojevic-boris/test-git.git</url>
     </scm>
 
 	<modules>
