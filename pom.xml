@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>org.openehealth.ipf.git</groupId>
     <artifactId>ipf-git</artifactId>
-    <version>0.8-m2</version>
+    <version>0.8-SNAPSHOT</version>
     <name>ipf-git</name>
     <packaging>pom</packaging>
 
