@@ -9,7 +9,7 @@
     <parent>
         <groupId>org.openehealth.ipf.git</groupId>
         <artifactId>ipf-git</artifactId>
-        <version>0.8-m3</version>
+        <version>0.8-SNAPSHOT</version>
     </parent>
     
     <dependencies>
